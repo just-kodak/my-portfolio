@@ -83,3 +83,11 @@ input[type="submit"] {
 input[type="submit"] {
     color: white;
 }
+@media (max-width: 768px) {
+    .nav-container {
+        padding: 10px;
+    }
+    button {
+        padding: 8px 16px;
+    }
+}
